@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of zhujia18/chevereto.** Not for installation: use [Packagist](https://packagist.org/packages/zhujia18/chevereto) or the [upstream repository](https://github.com/zhujia18/flarum-chevereto).
 
-**0** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/zhujia18-chevereto/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**3** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/zhujia18-chevereto/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-04-01 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/zhujia18-chevereto/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-04-04 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/zhujia18-chevereto/tree/archive/v0.1.1) |
+| `0.1.2` | 2020-05-06 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/zhujia18-chevereto/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/zhujia18-chevereto.json](https://github.com/flarchive/archive-index/blob/main/packages/zhujia18-chevereto.json)
 
